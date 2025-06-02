@@ -14,10 +14,6 @@ Some projects are implemented multiple times in different programming languages 
   </tr>
   <!-- ===================================================== -->
   <tr>
-    <td><strong>RSA Algorithm</strong></td>
-  </tr>
-  <!-- ===================================================== -->
-  <tr>
     <td><strong>Keylogger</strong></td>
     <td>A program that captures and records the user's keystrokes.</td>
   </tr>
