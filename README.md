@@ -1,3 +1,11 @@
+
+![Franklin Enwezor](https://github.com/Franklin-Enwezor/Franklin-keylogger-Project/blob/8f5e1e4a92722cbc9d2fecf3a84cba447040e6bc/IMG_9689%20(1).JPG)
+
+
+
+
+
+
 # Beginner Cybersecurity Mini-Projects
 As an absolute beginner in cybersecurity who has attempted some easy Capture-The-Flags (CTFs) challenges and TryHackMe labs, I decided to complete some easy cybersecurity projects to gain some hands-on experience.
 
