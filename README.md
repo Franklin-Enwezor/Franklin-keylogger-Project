@@ -15,7 +15,6 @@ Some projects are implemented multiple times in different programming languages 
   <!-- ===================================================== -->
   <tr>
     <td><strong>RSA Algorithm</strong></td>
-    <td>Frankiln-Enwezor</td>
   </tr>
   <!-- ===================================================== -->
   <tr>
@@ -44,6 +43,4 @@ Some projects are implemented multiple times in different programming languages 
   </tr>
   <!-- ===================================================== -->
 </table>
-# Franklin-keylogger-Project
-# Franklin-keylogger-Project
 # Franklin-keylogger-Project
